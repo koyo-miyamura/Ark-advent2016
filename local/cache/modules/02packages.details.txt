@@ -4,8 +4,8 @@ Description:  Package names found in cpanfile.snapshot
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   Carton v1.0.33
-Line-Count:   1394
-Last-Updated: Wed Jun 27 14:30:40 2018
+Line-Count:   1395
+Last-Updated: Wed Jun 27 17:34:31 2018
 
 Algorithm::C3                      0.10  H/HA/HAARG/Algorithm-C3-0.10.tar.gz
 Algorithm::Diff                  1.1903  T/TY/TYEMQ/Algorithm-Diff-1.1903.tar.gz
@@ -110,6 +110,7 @@ Data::Dumper::Concise             2.023  E/ET/ETHER/Data-Dumper-Concise-2.023.ta
 Data::Dumper::Concise::Sugar      2.023  E/ET/ETHER/Data-Dumper-Concise-2.023.tar.gz
 Data::OptList                     0.110  R/RJ/RJBS/Data-OptList-0.110.tar.gz
 Data::Page                         2.02  L/LB/LBROCARD/Data-Page-2.02.tar.gz
+Data::Page::Navigation             0.06  K/KA/KAZEBURO/Data-Page-Navigation-0.06.tar.gz
 Data::Section::Simple              0.07  M/MI/MIYAGAWA/Data-Section-Simple-0.07.tar.gz
 Data::Util                         0.66  S/SY/SYOHEX/Data-Util-0.66.tar.gz
 Data::Util::Error                 undef  S/SY/SYOHEX/Data-Util-0.66.tar.gz
