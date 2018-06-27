@@ -1444,7 +1444,6 @@ Jobeet	lib/Jobeet.pm	1;"	p
 Jobeet::Controller	blib/lib/Jobeet/Controller.pm	1;"	p
 Jobeet::Controller	lib/Jobeet/Controller.pm	1;"	p
 Jobeet::Models	blib/lib/Jobeet/Models.pm	1;"	p
-Jobeet::Models	lib/Jobeet/Model.pm	1;"	p
 Jobeet::Models	lib/Jobeet/Models.pm	1;"	p
 Jobeet::Schema	lib/Jobeet/Schema.pm	1;"	p
 Jobeet::Schema::Result::Affiliate	lib/Jobeet/Schema/Result/Affiliate.pm	1;"	p
