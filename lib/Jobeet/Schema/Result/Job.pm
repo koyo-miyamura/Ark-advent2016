@@ -10,7 +10,7 @@ __PACKAGE__->table('jobeet_job');
 __PACKAGE__->add_columns(
     id           => PK_INTEGER,
     category_id  => INTEGER,
-    type => VARCHAR(
+    type         => VARCHAR(
         is_nullable => 1,
     ),
     position     => VARCHAR,
@@ -26,6 +26,15 @@ __PACKAGE__->add_columns(
     expires_at   => DATETIME,
     created_at   => DATETIME,
     updated_at   => DATETIME,
+    company      => VARCHAR(
+        is_nullable => 1,
+    ),
+    logo         => VARCHAR(
+        is_nullable => 1,
+    ),
+    url          => VARCHAR(
+        is_nullable => 1,
+    ),
 );
 
 __PACKAGE__->set_primary_key('id');
