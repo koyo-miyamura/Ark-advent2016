@@ -2726,3 +2726,201 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Wed Jun 27 02:36:12 2018: C<Module> L<Git::Version::Compare|Git::Version::Compare>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:36:14 2018: C<Module> L<IPC::Run|IPC::Run>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 20180523.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:36:14 2018: C<Module> L<System::Command|System::Command>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.119>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:36:15 2018: C<Module> L<Git::Repository|Git::Repository>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.322>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:36:16 2018: C<Module> L<GitDDL|GitDDL>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:39:36 2018: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:39:37 2018: C<Module> L<DateTime::Format::Strptime|DateTime::Format::Strptime>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:39:38 2018: C<Module> L<DateTime::Format::Builder|DateTime::Format::Builder>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.81>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Jun 27 02:39:39 2018: C<Module> L<DateTime::Format::SQLite|DateTime::Format::SQLite>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

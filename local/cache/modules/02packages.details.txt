@@ -4,8 +4,8 @@ Description:  Package names found in cpanfile.snapshot
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   Carton v1.0.33
-Line-Count:   1361
-Last-Updated: Tue Jun 26 18:38:05 2018
+Line-Count:   1394
+Last-Updated: Wed Jun 27 11:46:55 2018
 
 Algorithm::C3                      0.10  H/HA/HAARG/Algorithm-C3-0.10.tar.gz
 Algorithm::Diff                  1.1903  T/TY/TYEMQ/Algorithm-Diff-1.1903.tar.gz
@@ -75,6 +75,7 @@ Class::C3                          0.34  H/HA/HAARG/Class-C3-0.34.tar.gz
 Class::C3::Componentised       1.001002  H/HA/HAARG/Class-C3-Componentised-1.001002.tar.gz
 Class::C3::Componentised::ApplyHooks undef  H/HA/HAARG/Class-C3-Componentised-1.001002.tar.gz
 Class::Data::Inheritable           0.08  T/TM/TMTM/Class-Data-Inheritable-0.08.tar.gz
+Class::Factory::Util                1.7  D/DR/DROLSKY/Class-Factory-Util-1.7.tar.gz
 Class::Inspector                   1.32  P/PL/PLICEASE/Class-Inspector-1.32.tar.gz
 Class::Inspector::Functions        1.32  P/PL/PLICEASE/Class-Inspector-1.32.tar.gz
 Class::Load                        0.25  E/ET/ETHER/Class-Load-0.25.tar.gz
@@ -153,6 +154,18 @@ Date::Language::Turkish             1.0  G/GB/GBARR/TimeDate-2.30.tar.gz
 Date::Parse                        2.30  G/GB/GBARR/TimeDate-2.30.tar.gz
 DateTime                           1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
 DateTime::Duration                 1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
+DateTime::Format::Builder          0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser  0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser::Dispatch 0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser::generic 0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser::Quick 0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser::Regex 0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Builder::Parser::Strptime 0.81  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Fall            undef  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::Simple          undef  D/DR/DROLSKY/DateTime-Format-Builder-0.81.tar.gz
+DateTime::Format::SQLite           0.11  C/CF/CFAERBER/DateTime-Format-SQLite-0.11.tar.gz
+DateTime::Format::Strptime         1.75  D/DR/DROLSKY/DateTime-Format-Strptime-1.75.tar.gz
+DateTime::Format::Strptime::Types  1.75  D/DR/DROLSKY/DateTime-Format-Strptime-1.75.tar.gz
 DateTime::Helpers                  1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
 DateTime::Infinite                 1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
 DateTime::Infinite::Future         1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
@@ -776,6 +789,11 @@ FormValidator::Lite::Upload       undef  T/TO/TOKUHIROM/FormValidator-Lite-0.39.
 FormValidator::Lite::Upload::CGI  undef  T/TO/TOKUHIROM/FormValidator-Lite-0.39.tar.gz
 FormValidator::Lite::Upload::HTTPEngine undef  T/TO/TOKUHIROM/FormValidator-Lite-0.39.tar.gz
 FormValidator::Lite::Upload::PlackRequest undef  T/TO/TOKUHIROM/FormValidator-Lite-0.39.tar.gz
+Git::Repository                   1.322  B/BO/BOOK/Git-Repository-1.322.tar.gz
+Git::Repository::Command          1.322  B/BO/BOOK/Git-Repository-1.322.tar.gz
+Git::Repository::Plugin           1.322  B/BO/BOOK/Git-Repository-1.322.tar.gz
+Git::Version::Compare             1.004  B/BO/BOOK/Git-Version-Compare-1.004.tar.gz
+GitDDL                             0.03  T/TY/TYPESTER/GitDDL-0.03.tar.gz
 Hash::Merge                       0.300  R/RE/REHSACK/Hash-Merge-0.300.tar.gz
 Hash::MultiValue                   0.16  A/AR/ARISTOTLE/Hash-MultiValue-0.16.tar.gz
 Hash::Util::FieldHash::Compat      0.11  E/ET/ETHER/Hash-Util-FieldHash-Compat-0.11.tar.gz
@@ -839,6 +857,13 @@ HTTP::Status                       6.18  O/OA/OALDERS/HTTP-Message-6.18.tar.gz
 Import::Into                   1.002005  H/HA/HAARG/Import-Into-1.002005.tar.gz
 indirect                           0.38  V/VP/VPIT/indirect-0.38.tar.gz
 IO::HTML                          1.001  C/CJ/CJM/IO-HTML-1.001.tar.gz
+IPC::Run                       20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::Debug                20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::IO                   20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::Timer                20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::Win32Helper          20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::Win32IO              20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
+IPC::Run::Win32Pump            20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
 JSON                            2.97001  I/IS/ISHIGAKI/JSON-2.97001.tar.gz
 JSON::Backend::PP               2.97001  I/IS/ISHIGAKI/JSON-2.97001.tar.gz
 JSON::MaybeXS                  1.004000  H/HA/HAARG/JSON-MaybeXS-1.004000.tar.gz
@@ -955,11 +980,16 @@ Net::EmptyPort                    undef  T/TO/TOKUHIROM/Test-TCP-2.19.tar.gz
 Object::Container                  0.14  T/TY/TYPESTER/Object-Container-0.14.tar.gz
 oo                                undef  H/HA/HAARG/Moo-2.003004.tar.gz
 ouse                              undef  S/SK/SKAJI/Mouse-v2.5.4.tar.gz
+Package::DeprecationManager        0.17  D/DR/DROLSKY/Package-DeprecationManager-0.17.tar.gz
 Package::Stash                     0.37  D/DO/DOY/Package-Stash-0.37.tar.gz
 Package::Stash::PP                 0.37  D/DO/DOY/Package-Stash-0.37.tar.gz
 Package::Stash::XS                 0.28  D/DO/DOY/Package-Stash-XS-0.28.tar.gz
 Package::Variant               1.003002  M/MS/MSTROUT/Package-Variant-1.003002.tar.gz
 Params::Util                       1.07  A/AD/ADAMK/Params-Util-1.07.tar.gz
+Params::Validate                   1.29  D/DR/DROLSKY/Params-Validate-1.29.tar.gz
+Params::Validate::Constants        1.29  D/DR/DROLSKY/Params-Validate-1.29.tar.gz
+Params::Validate::PP               1.29  D/DR/DROLSKY/Params-Validate-1.29.tar.gz
+Params::Validate::XS               1.29  D/DR/DROLSKY/Params-Validate-1.29.tar.gz
 Params::ValidationCompiler         0.27  D/DR/DROLSKY/Params-ValidationCompiler-0.27.tar.gz
 Params::ValidationCompiler::Compiler 0.27  D/DR/DROLSKY/Params-ValidationCompiler-0.27.tar.gz
 Params::ValidationCompiler::Exceptions 0.27  D/DR/DROLSKY/Params-ValidationCompiler-0.27.tar.gz
@@ -1213,6 +1243,8 @@ Sub::Name                          0.21  E/ET/ETHER/Sub-Name-0.21.tar.gz
 Sub::Quote                     2.005001  H/HA/HAARG/Sub-Quote-2.005001.tar.gz
 Sub::Uplevel                     0.2800  D/DA/DAGOLDEN/Sub-Uplevel-0.2800.tar.gz
 Sub::Util                          1.50  P/PE/PEVANS/Scalar-List-Utils-1.50.tar.gz
+System::Command                   1.119  B/BO/BOOK/System-Command-1.119.tar.gz
+System::Command::Reaper           1.119  B/BO/BOOK/System-Command-1.119.tar.gz
 Test::Deep                        1.128  R/RJ/RJBS/Test-Deep-1.128.tar.gz
 Test::Deep::All                   undef  R/RJ/RJBS/Test-Deep-1.128.tar.gz
 Test::Deep::Any                   undef  R/RJ/RJBS/Test-Deep-1.128.tar.gz
@@ -1267,6 +1299,7 @@ Test::Deep::SuperHashKeysOnly     undef  R/RJ/RJBS/Test-Deep-1.128.tar.gz
 Test::Differences                  0.64  D/DC/DCANTRELL/Test-Differences-0.64.tar.gz
 Test::Exception                    0.43  E/EX/EXODIST/Test-Exception-0.43.tar.gz
 Test::Fatal                       0.014  R/RJ/RJBS/Test-Fatal-0.014.tar.gz
+Test::Git                         1.322  B/BO/BOOK/Git-Repository-1.322.tar.gz
 Test::Module::Build::Pluggable    undef  T/TO/TOKUHIROM/Module-Build-Pluggable-0.10.tar.gz
 Test::Mouse                       undef  S/SK/SKAJI/Mouse-v2.5.4.tar.gz
 Test::Requires                     0.10  T/TO/TOKUHIROM/Test-Requires-0.10.tar.gz
