@@ -195,6 +195,14 @@ DISTRIBUTIONS
       strict 0
       version 0.88
       warnings 0
+  Cache-FastMmap-1.47
+    pathname: R/RO/ROBM/Cache-FastMmap-1.47.tar.gz
+    provides:
+      Cache::FastMmap 1.47
+      Cache::FastMmap::OnLeave 1.47
+    requirements:
+      ExtUtils::MakeMaker 0
+      Storable 0
   Capture-Tiny-0.48
     pathname: D/DA/DAGOLDEN/Capture-Tiny-0.48.tar.gz
     provides:

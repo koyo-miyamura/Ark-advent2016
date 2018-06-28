@@ -13,3 +13,4 @@ requires 'String::CamelCase';
 requires 'Data::Page::Navigation';
 requires 'Test::Harness';
 requires 'CGI::Simple';
+requires 'Cache::FastMmap';

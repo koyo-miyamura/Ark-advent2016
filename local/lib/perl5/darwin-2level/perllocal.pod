@@ -3012,3 +3012,25 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Thu Jun 28 06:53:48 2018: C<Module> L<Cache::FastMmap|Cache::FastMmap>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/miyamura-koyo/Jobeet/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.47>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
