@@ -4,8 +4,8 @@ Description:  Package names found in cpanfile.snapshot
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   Carton v1.0.33
-Line-Count:   1480
-Last-Updated: Thu Jun 28 16:28:32 2018
+Line-Count:   1481
+Last-Updated: Thu Jun 28 17:39:43 2018
 
 Algorithm::C3                      0.10  H/HA/HAARG/Algorithm-C3-0.10.tar.gz
 Algorithm::Diff                  1.1903  T/TY/TYEMQ/Algorithm-Diff-1.1903.tar.gz
@@ -173,6 +173,7 @@ DateTime::Format::Simple          undef  D/DR/DROLSKY/DateTime-Format-Builder-0.
 DateTime::Format::SQLite           0.11  C/CF/CFAERBER/DateTime-Format-SQLite-0.11.tar.gz
 DateTime::Format::Strptime         1.75  D/DR/DROLSKY/DateTime-Format-Strptime-1.75.tar.gz
 DateTime::Format::Strptime::Types  1.75  D/DR/DROLSKY/DateTime-Format-Strptime-1.75.tar.gz
+DateTime::Format::W3CDTF           0.07  G/GW/GWILLIAMS/DateTime-Format-W3CDTF-0.07.tar.gz
 DateTime::Helpers                  1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
 DateTime::Infinite                 1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
 DateTime::Infinite::Future         1.49  D/DR/DROLSKY/DateTime-1.49.tar.gz
