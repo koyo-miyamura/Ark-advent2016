@@ -45,7 +45,9 @@
 ? my $i = 0;
 ? for my $job (@history) {
           <li>
-            <?= $job->{position} ?> - <?= $job->{company} ?>
+            <a href="<?= $c->uri_for('/job', $job->{token}) ?>">
+              <?= $job->{position} ?> - <?= $job->{company} ?>
+            </a>
           </li>
 ? last if ++$i == 3;
 ? } # endfor $job
