@@ -4,8 +4,8 @@ Description:  Package names found in cpanfile.snapshot
 Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   Carton v1.0.33
-Line-Count:   1481
-Last-Updated: Thu Jun 28 17:39:43 2018
+Line-Count:   1482
+Last-Updated: Thu Jun 28 18:35:53 2018
 
 Algorithm::C3                      0.10  H/HA/HAARG/Algorithm-C3-0.10.tar.gz
 Algorithm::Diff                  1.1903  T/TY/TYEMQ/Algorithm-Diff-1.1903.tar.gz
@@ -884,6 +884,7 @@ IPC::Run::Win32Helper          20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
 IPC::Run::Win32IO              20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
 IPC::Run::Win32Pump            20180523.0  T/TO/TODDR/IPC-Run-20180523.0.tar.gz
 JSON                            2.97001  I/IS/ISHIGAKI/JSON-2.97001.tar.gz
+JSON::Any                          1.39  E/ET/ETHER/JSON-Any-1.39.tar.gz
 JSON::Backend::PP               2.97001  I/IS/ISHIGAKI/JSON-2.97001.tar.gz
 JSON::MaybeXS                  1.004000  H/HA/HAARG/JSON-MaybeXS-1.004000.tar.gz
 JSON::PP                        2.97001  I/IS/ISHIGAKI/JSON-PP-2.97001.tar.gz

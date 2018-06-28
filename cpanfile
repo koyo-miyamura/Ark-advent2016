@@ -15,3 +15,4 @@ requires 'Test::Harness';
 requires 'CGI::Simple';
 requires 'Cache::FastMmap';
 requires 'DateTime::Format::W3CDTF';
+requires 'JSON::Any';

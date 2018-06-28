@@ -34,7 +34,7 @@ __PACKAGE__->has_many(
         cascade_delete              => 0,
     },
 );
-__PACKAGE__->many_to_many( affiliates => category_affiliate => 'affiliate_id' );
+__PACKAGE__->many_to_many( affiliates => category_affiliate => 'affiliate' );
 
 sub get_active_jobs {
     my $self = shift;
